@@ -23,4 +23,4 @@ This repo documents my personal lab setup for learning security engineering, off
   - Tryhackme.com  # Complete Penetration Tester Roadmap
   - Obsidian # Incredible tool for note-taking
   - Hackthebox # For CTFs
-  - <a href = "https://github.com/systems-cs-pub-ro/carte-uso"> "Utilizarea Sistemelor de Operare" de UPB </a> # For learning Linux in-depth
+  - <a href = "https://github.com/systems-cs-pub-ro/carte-uso"> "Utilizarea Sistemelor de Operare" de UPB </a>  # For learning Linux in-depth
