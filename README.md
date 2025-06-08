@@ -28,6 +28,7 @@ This repo documents my personal lab setup for learning security engineering, off
 ## Repo Structure 
 
 `/Cyber-Obsidian` - Contains .md files for the Obisdian app, containing all the notes I take from the learning resources I'm using(Tryhackme, USO)
+
 `/lab-setup` - Contains configurations for all the Virtual Machines used in the lab + the config files for the Arch Linux installation I'm using
 
 
