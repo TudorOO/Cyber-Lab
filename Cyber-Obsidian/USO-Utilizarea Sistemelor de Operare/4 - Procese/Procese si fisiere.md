@@ -1,0 +1,1 @@
+Procesul init(PID 1) este primul proces creat care este parintele tuturor proceselor si adopta si procesele orfane
