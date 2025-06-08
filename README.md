@@ -24,3 +24,10 @@ This repo documents my personal lab setup for learning security engineering, off
   - Obsidian # Incredible tool for note-taking
   - Hackthebox # For CTFs
   - <a href = "https://github.com/systems-cs-pub-ro/carte-uso"> "Utilizarea Sistemelor de Operare" de UPB </a>  # For learning Linux in-depth
+
+## Repo Structure 
+
+`/Cyber-Obsidian` - Contains .md files for the Obisdian app, containing all the notes I take from the learning resources I'm using(Tryhackme, USO)
+`/lab-setup` - Contains configurations for all the Virtual Machines used in the lab + the config files for the Arch Linux installation I'm using
+
+
