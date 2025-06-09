@@ -13,6 +13,7 @@
 6. ***lsof*** --> afiseaza fisierele deschide de un proces
 7. ***uptime*** --> afiseaza incarcarea unui sistem(loadul) in 1 minut, 5 minute si 15 minute
 8. ***jobs*** --> folosita pentru a afisa comenzi din shellul curent
+9. ***lsof -p*** --> afiseaza tabela de descriptori de fisiere a unui proces
 
 <h4>PS</h4>
 	Argumente:

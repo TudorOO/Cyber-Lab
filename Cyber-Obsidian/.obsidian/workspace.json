@@ -31,12 +31,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tryhackme/Web/XSS - Cross-site Scripting.md",
+                    "file": "USO-Utilizarea Sistemelor de Operare/4 - Procese/Procese si fisiere.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "XSS - Cross-site Scripting"
+                  "title": "Procese si fisiere"
                 }
               }
             ],
@@ -208,17 +208,18 @@
   },
   "active": "03b2c8c35ad634c0",
   "lastOpenFiles": [
-    "Tryhackme/Web/SSRF - Server-Side Request Forgery.md",
+    "USO-Utilizarea Sistemelor de Operare/4 - Procese/Utilitare pentru urmarirea proceselor.md",
+    "USO-Utilizarea Sistemelor de Operare/4 - Procese/Procese si fisiere.md",
+    "USO-Utilizarea Sistemelor de Operare/4 - Procese/Atributele unui proces.md",
+    "Pasted image 20250610014420.png",
+    "Pasted image 20250526214352.png",
     "Tryhackme/Web/XSS - Cross-site Scripting.md",
+    "Tryhackme/Web/SSRF - Server-Side Request Forgery.md",
     "Tryhackme/Web/IDOR - Insecure Direct Object Reference.md",
     "Tryhackme/Web/Authentication Bypass.md",
     "Tryhackme/Web/File Inclusion.md",
     "Tryhackme/Web",
-    "USO-Utilizarea Sistemelor de Operare/4 - Procese/Procese si fisiere.md",
     "Tryhackme",
-    "USO-Utilizarea Sistemelor de Operare/4 - Procese/Utilitare pentru urmarirea proceselor.md",
-    "USO-Utilizarea Sistemelor de Operare/4 - Procese/Atributele unui proces.md",
-    "Pasted image 20250526214352.png",
     "USO-Utilizarea Sistemelor de Operare/3 - Pachete Software/Packet Managers.md",
     "USO-Utilizarea Sistemelor de Operare/3 - Pachete Software/Pachete.md",
     "USO-Utilizarea Sistemelor de Operare/2 - Utilizarea Sistemului de Fisiere/Directoare linux.md",
