@@ -8,4 +8,4 @@ This folder contains config files for various packages I install on the OS. It d
 ## Screenshots
 
 ![screenshot1](../../sources/screenshot1)
-![screenshor2](../../sources/screenshot2
+![screenshor2](../../sources/screenshot2)
