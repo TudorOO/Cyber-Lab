@@ -7,4 +7,5 @@ This folder contains config files for various packages I install on the OS. It d
 
 ## Screenshots
 
-![screenshot1](github.com/TudorOO/Cyber-Lab/tree/main/sources/screenshot1)
+![screenshot1](../../sources/screenshot1)
+![screenshor2](../../sources/screenshot2
