@@ -6,3 +6,5 @@ and I believe that the best way to do that is to use a bare-bones distribution, 
 This folder contains config files for various packages I install on the OS. It does NOT contain configs for every package, only a select few.
 
 ## Screenshots
+
+![screenshot1](github.com/TudorOO/Cyber-Lab/tree/main/sources/screenshot1)
