@@ -31,12 +31,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "USO-Utilizarea Sistemelor de Operare/4 - Procese/Procese si fisiere.md",
+                    "file": "USO-Utilizarea Sistemelor de Operare/4 - Procese/Pornirea unui proces. Loading.md",
                     "mode": "source",
-                    "source": false
+                    "source": false,
+                    "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Procese si fisiere"
+                  "title": "Pornirea unui proces. Loading"
                 }
               }
             ],
@@ -208,9 +209,15 @@
   },
   "active": "03b2c8c35ad634c0",
   "lastOpenFiles": [
+    "Pasted image 20250624213752.png",
+    "USO-Utilizarea Sistemelor de Operare/4 - Procese/PROCFS.md",
+    "USO-Utilizarea Sistemelor de Operare/4 - Procese/Pornirea unui proces. Loading.md",
     "USO-Utilizarea Sistemelor de Operare/4 - Procese/Utilitare pentru urmarirea proceselor.md",
+    "USO-Utilizarea Sistemelor de Operare/4 - Procese/Interactivitatea Proceselor.md",
+    "USO-Utilizarea Sistemelor de Operare/4 - Procese/Operatii cu procese.md",
     "USO-Utilizarea Sistemelor de Operare/4 - Procese/Procese si fisiere.md",
     "USO-Utilizarea Sistemelor de Operare/4 - Procese/Atributele unui proces.md",
+    "Pasted image 20250624193257.png",
     "Pasted image 20250610014420.png",
     "Pasted image 20250526214352.png",
     "Tryhackme/Web/XSS - Cross-site Scripting.md",
